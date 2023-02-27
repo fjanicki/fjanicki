@@ -1,19 +1,22 @@
-### Hey there 👋 and welcome to my GitHub
-
-I'm Frederic, a Software Engineer specializing in backend, AWS and mobile development. I tend to 
-favor software architecture, testability and code readability above anything else.
+I'm Frédéric, a Software Engineer based in Montreal, Canada 🇨🇦 
+I am mainly specializing in building scalable and well-architected backend and fullstack services. I tend to 
+favour software architecture, testability and code readability above anything else.
 
 I tend to do most of my daily commits on a private GitLab profile, hence why this profile is not getting much traffic.
 
-I'm currently working on a web3 gaming franchise called Aurory, you can check it out here: [Aurory](https://aurory.io/)
-
-You can find me developing using mainly those tools:
+- 🔭 I’m currently working on a web3 gaming franchise called Aurory, you can check it out here: [Aurory](https://aurory.io/)
+- 🌱 I’m currently learning about how to build a MicroSaaS as a solo dev. Also learning about SRE and cloud architecture.
+- 👯 I’m looking to collaborate on (Micro)SaaS projects.
+- 🤔 I’m looking for help with marketing.
+- 💬 Ask me about cloud and software engineering. 
+- 📫 How to reach me: contact@fjanicki.ca
+- 😄 Pronouns: Him/He
 
 <!---
 https://github.com/Ileriayo/markdown-badges
 -->
 
-
+## You can find me developing using mainly those tools:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -21,6 +24,7 @@ https://github.com/Ileriayo/markdown-badges
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
